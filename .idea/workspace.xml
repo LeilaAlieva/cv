@@ -4,6 +4,7 @@
     <list default="true" id="1542b7b0-8358-45a2-a422-a3c3c4e48c49" name="Changes" comment="Photo updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,8 @@
       <workItem from="1630183873475" duration="64000" />
       <workItem from="1632224448052" duration="965000" />
       <workItem from="1632235676087" duration="608000" />
+      <workItem from="1632297341762" duration="95000" />
+      <workItem from="1632396700240" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="Photo updated">
       <created>1632237051832</created>
