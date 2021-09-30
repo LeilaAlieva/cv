@@ -156,6 +156,10 @@ body {
 
 /* my education section */
 
+.my_education_section {
+    margin-bottom: 45px;
+}
+
 .my_university {
     font-style: normal;
     font-weight: bold;
